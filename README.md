@@ -1,5 +1,7 @@
 # The Odin Project
 
+<a href=https://www.theodinproject.com>![Recurso 1](https://user-images.githubusercontent.com/50267208/173396376-e8ba3182-5460-4fb9-9901-47d029c7fc4b.png)</a>
+
 Compilación de proyectos presentados como parte de la currícula de [The Odin Project](https://www.theodinproject.com/)
 
 Los marcados con &#x2b50; son los que, a mi criterio, me quedaron mejor.
