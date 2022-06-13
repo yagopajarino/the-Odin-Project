@@ -8,7 +8,7 @@ Los marcados con &#x2b50; son los que, a mi criterio, me quedaron mejor.
 
 ## Foundations
 
-Curso de introducción a las herramientas necesarias para el desarrollo web
+Curso de introducción a las herramientas necesarias para el desarrollo web: HTML, CSS.
 
 | Project             | Descripcion                                                                           | Solucion                                                          | Live preview                                                         | Flagged  |
 | ------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- | -------- |
@@ -18,7 +18,7 @@ Curso de introducción a las herramientas necesarias para el desarrollo web
 | Etch-a-sketch       | [Descripcion](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)       | [Solucion](https://github.com/yagopajarino/top-etchASketch)       | [Live Preview](https://yagopajarino.github.io/top-etchASketch)       |          |
 | Calculator          | [Descripcion](https://www.theodinproject.com/lessons/foundations-calculator)          | [Solucion](https://github.com/yagopajarino/top-calculator)        | [Live Preview](https://yagopajarino.github.io/top-calculator)        | &#x2b50; |
 
-## JavaSciript
+## JavaScript
 
 JavaScript para hacer webs interactivas. Creación de aplicaciones, manipulación del DOM, introducción a OOP, introducción a React.
 
