@@ -33,3 +33,12 @@ JavaScript para hacer webs interactivas. Creación de aplicaciones, manipulació
 | **React:** CV application | [Descripcion](https://www.theodinproject.com/lessons/node-path-javascript-cv-application)   | [Solucion](https://github.com/yagopajarino/top-reactCVProject) | [Live Preview](https://yagopajarino.github.io/top-reactCVProject) | &#x2b50; |
 | **React:** memory card    | [Descripcion](https://www.theodinproject.com/lessons/node-path-javascript-memory-card)      | [Solucion](https://github.com/yagopajarino/top-memoryCard)     | [Live Preview](https://yagopajarino.github.io/top-memoryCard)     |          |
 | **React:** shopping cart  | [Descripcion](https://www.theodinproject.com/lessons/node-path-javascript-shopping-cart)    | [Solucion](https://github.com/yagopajarino/top-shoppingCart)   | [Live Preview](https://yagopajarino.github.io/top-shoppingCart)   | &#x2b50; |
+
+## NodeJS
+
+JavaScript en el server-side. Introducción a NodeJS y Express. Base de datos noSQL [MongoDB Basics](https://university.mongodb.com/courses/M001/about).
+
+| Project                | Descripcion                                                                                                                                                                     | Solucion                                                             | Live preview                                                           | Flagged |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------- |
+| Basic Information Site | [Descripcion](https://www.theodinproject.com/lessons/nodejs-basic-informational-site)                                                                                           | [Solucion](https://github.com/yagopajarino/top-basicInformationSite) | [Live Preview](https://top-basicinformationsite.yagopajarino.repl.co/) |         |
+| MongoDB Basics         | [Certificación](https://university.mongodb.com/course_completion/0ec42bef-f3fd-48a8-aa9f-a6455cf082a1?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing) |
