@@ -4,7 +4,7 @@
 
 Compilación de proyectos presentados como parte de la currícula de [The Odin Project](https://www.theodinproject.com/)
 
-Los marcados con &#x2b50; son los que, a mi criterio, me quedaron mejor.
+Favs marcados con &#x2b50;
 
 ## Foundations
 
